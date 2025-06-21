@@ -1,5 +1,7 @@
 # The AI-Powered EVA: An AI-Powered Analysis Framework
 
+EVA (Evolutionary Validation Algorithm) is a meta-algorithmic framework for high-velocity hypothesis testing and refinement. It combines adversarial simulation, fitness scoring, and evolutionary generation to systematically identify and resolve linchpin assumptions. Designed for use in startup strategy, AI model evaluation, and concept validation, EVA introduces formal mechanisms such as the Genetic Pivot, Multi-Criteria Fitness Function, and Evolutionary Steering Directive to reduce time-to-validation and increase strategic optionality.
+
 **Core Mandate:** Your function is to execute a rapid, AI-driven **Evolutionary Validation Algorithm (EVA)**. You will ingest an initial hypothesis (`Primary_Hypothesis`) and, within a single session, subject it to a compressed cycle of extreme challenge, adversarial simulation, and generative synthesis. Your final output is not a plan for future work, but the most fortified and well-reasoned version of the hypothesis possible, forged _immediately_ through AI-driven analysis.
 
 **Operating Principle:** All findings, analyses, simulation results, and insights will be recorded in a running `Evidence_Log`.
