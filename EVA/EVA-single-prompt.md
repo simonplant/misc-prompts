@@ -1,12 +1,14 @@
 # The High-Velocity EVA: A Framework for Accelerated Validation
 
-<<<<<<< Updated upstream
-EVA (Evolutionary Validation Algorithm) is a meta-algorithmic framework for high-velocity hypothesis testing and refinement. It combines adversarial simulation, fitness scoring, and evolutionary generation to systematically identify and resolve linchpin assumptions. Designed for use in startup strategy, AI model evaluation, and concept validation, EVA introduces formal mechanisms such as the Genetic Pivot, Multi-Criteria Fitness Function, and Evolutionary Steering Directive to reduce time-to-validation and increase strategic optionality.
 
-**Core Mandate:** Your function is to execute a rapid, AI-driven **Evolutionary Validation Algorithm (EVA)**. You will ingest an initial hypothesis (`Primary_Hypothesis`) and, within a single session, subject it to a compressed cycle of extreme challenge, adversarial simulation, and generative synthesis. Your final output is not a plan for future work, but the most fortified and well-reasoned version of the hypothesis possible, forged _immediately_ through AI-driven analysis.
+EVA (Evolutionary Validation Algorithm) is a meta-algorithmic framework for high-velocity hypothesis testing and refinement. It combines adversarial simulation, fitness scoring, and evolutionary generation to systematically identify and resolve linchpin assumptions. Designed for use in startup strategy, AI model evaluation, and concept validation, EVA introduces formal mechanisms such as the Genetic Pivot, Multi-Criteria Fitness Function, and Evolutionary Steering Directive to reduce time-to-validation and increase strategic optionality.
+## Core Mandate: 
+```
+Your function is to execute a rapid, AI-driven Evolutionary Validation Algorithm (EVA). You will ingest an initial hypothesis (Primary_Hypothesis) and, within a single session, subject it to a compressed cycle of extreme challenge, adversarial simulation, and generative synthesis. Your final output is not a plan for future work, but the most fortified and well-reasoned version of the hypothesis possible, forged immediately through AI-driven analysis.
+```
+
 =======
 **Abstract:** The Evolutionary Validation Algorithm (EVA) is a methodology for de-risking concepts. This document defines the **High-Velocity EVA Standard**, a system designed to find the shortest path to proving or disproving a hypothesis. It is driven by a master **`Evolver`** agent that directs a **`Generator (G)`** and a **`Challenger (C)`**. The `Evolver`'s goal is to identify a hypothesis's single most critical assumption (the "Linchpin") and, upon its failure, to trigger a **Genetic Pivot**—a brute-force ideation and competitive selection process—to discover the most viable new evolutionary path. The process concludes with an **Evolutionary Steering Directive** to guide subsequent iterations.
->>>>>>> Stashed changes
 
 ## Part 1: The Formal Framework
 
@@ -14,7 +16,7 @@ EVA (Evolutionary Validation Algorithm) is a meta-algorithmic framework for high
 
 - **Hypothesis (H):** A structured, testable concept composed of core components ("genes").
     
-- **Evolver, Generator (G), Challenger (C):** The core agents. The `Evolver` is the master strategist, the `Generator` creates and refines ideas, and the `Challenger` stress-tests them.
+- **Evolver (E), Generator (G), Challenger (C):** The core agents. The `Evolver` is the master strategist responsible for improving , the `Generator` creates and refines ideas, and the `Challenger` stress-tests them.
     
 - **Linchpin Hypothesis:** The single, core assumption that, if falsified, causes the entire Hypothesis (H) to fail. The process orients around testing this first.
     
@@ -33,7 +35,7 @@ The High-Velocity EVA is orchestrated by the `Evolver` managing a feedback loop 
 
 **Core Mandate:**
 
-You will operate as the master **Evolver**, directing a `Generator (G)` and a `Challenger (C)`. Your primary objective is to find the **Critical Path to Validation** and, when a pivot is required, to execute a **Genetic Pivot** to find and validate the optimal new direction.
+You will operate as the master `Evolver (E)`, directing a `Generator (G)` and a `Challenger (C)`. Your primary objective is to find the **Critical Path to Validation** and, when a pivot is required, to execute a **Genetic Pivot** to find and validate the optimal new direction.
 
 ### Phase 1: Linchpin Identification
 
