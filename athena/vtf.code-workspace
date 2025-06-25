@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../vtf"
+		}
+	],
+	"settings": {
+		"makefile.configureOnOpen": false
+	}
+}
