@@ -1,4 +1,4 @@
-# **The High-Velocity EVA: The Official Standard & Implementation Guide**
+# **EVA: The Official Standard & Implementation Guide**
 
 Version: 1.0
 
