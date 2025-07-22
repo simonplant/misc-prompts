@@ -22,7 +22,7 @@ Decision-making principles:
 
 ---
 
-## Prompt 1: Analysis & Scoring (Phases 3-4)
+## Prompt 1: Analysis & Scoring
 
 ### Input Required:
 - All document contents with identifiers (Doc_A, Doc_B, etc.)
@@ -113,7 +113,7 @@ Ensure your analysis is thorough and captures all significant patterns in the do
 
 ---
 
-## Prompt 2: Structure Proposal (Phase 5)
+## Prompt 2: Structure Proposal
 
 ### Input Required:
 - Analysis results from Prompt 1
