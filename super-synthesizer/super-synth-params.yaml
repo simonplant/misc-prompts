@@ -1,0 +1,9 @@
+execution_mode: two-phase
+scoring_level: phrase-level
+conflict_resolution: strongest-claim
+goal: Synthesis of multiple documents researching the same content
+audience_role: Medical & clinical
+output_format: appendix+main
+hallucination_check: true
+redundancy_penalty: true
+vcs_mode: skip
