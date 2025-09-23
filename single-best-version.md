@@ -1,2 +1,0 @@
-
-Propose a single, best version of all sections, combining insights from the following documents while maintaining consistency and clarity, and preserving the strongest ideas throughout. Ensure the document is well structured and written in a tone appropriate to the audience and content.
