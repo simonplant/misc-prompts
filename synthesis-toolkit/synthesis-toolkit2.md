@@ -49,35 +49,7 @@ For each source, identify and classify:
 
 [Write 2-3 full paragraphs that capture the complete story. This should stand alone as a valuable document, synthesizing the key findings, noting areas of strong agreement, acknowledging critical uncertainties, and providing clear strategic direction. Write in flowing prose, not bullet points.]
 
-## Introduction
 
-[A compelling opening paragraph that establishes context, stakes, and the journey ahead. This should draw the reader in and explain why this synthesis matters.]
-
-## [Section 1: Descriptive Title Based on Content]
-
-[Write 3-5 paragraphs of flowing prose that fully develop this aspect of the topic. Weave together insights from multiple agents into a unified narrative. Include evidence classifications naturally within the text, such as: "Based on empirical data from three independent analyses (Evidence: 0.95), we can establish that..." or "While more speculative (Evidence: 0.65), emerging patterns suggest..."]
-
-[Continue developing the ideas with specific examples, supporting evidence, and clear explanations. Each paragraph should build on the previous one, creating momentum and deepening understanding.]
-
-### [Subsection if needed for complex topics]
-
-[Additional paragraphs that explore specific aspects in detail. Maintain narrative flow between all sections.]
-
-## [Section 2: Next Major Theme]
-
-[Another 3-5 paragraphs developing the next major area of the synthesis. Ensure smooth transitions from the previous section. Continue to integrate evidence quality indicators naturally: "Multiple agents converge on this conclusion with high confidence..." or "Though based on limited data..."]
-
-## [Section 3: Advanced Insights or Applications]
-
-[Continue with substantive content for each major area identified in the synthesis]
-
-## Areas of Uncertainty and Future Considerations
-
-[1-2 paragraphs discussing what remains unclear, where evidence is weak, or where agents disagreed significantly. Present this as a narrative discussion, not a list: "While the synthesis reveals strong consensus on X, significant uncertainty remains regarding Y. The primary tension centers on whether... Agent A's analysis suggests... while Agent B's framework implies... Resolution of this question will likely require..."]
-
-## Conclusion
-
-[2-3 paragraphs that synthesize the journey, reinforce key insights, and provide clear direction forward. End with strategic implications and recommended next steps presented as flowing prose.]
 
 ---
 
